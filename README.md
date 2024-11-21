@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShrinivasaPH
 - 👀 I’m interested in Data Science, Machine learning, Artificial Intelligence and other related cool stuff..
 - 🌱 I’m currently learning Data science and Machine learning in Scaler Academy. 
-- 💞️ I’m looking to collaborate on ML and Data visualisation projects.
-- I love creating ML Models, webAPIs.
+- 👍🏻 I’m looking to collaborate on ML and Data visualisation projects.
+- 💞️ I love creating ML Models, webAPIs.
 - 📫 How to reach me : shrinivasaph@gmail.com | +91 9740085757 (Whatsapp or call)
 
 <!---
