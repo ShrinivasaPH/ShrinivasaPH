@@ -5,7 +5,7 @@ I am a passionate **Data Science student** exploring the vast world of **Machine
 
 ### 🧠 What I Know So Far
 - **Machine Learning**: Linear Regression, Polynomial Regression, Logistic Regression, Decision Trees, Random Forest, Ensemble Techniques (Bagging & Boosting), ARIMA (Time Series Analysis)
-- **Data Processing**: Handling Missing Values (KNN Imputation), Feature Engineering, PCA, GMM
+- **Data Processing**: Handling Missing Values (KNN Imputation), Feature Engineering, PCA, GMM.
 - **Programming**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - **Web Development**: Streamlit (Built a Used Car Resale Value Predictor)
 - **Statistics & Math**: Regression Metrics (R², Adjusted R², VIF), Basics of Derivatives & Exponents, Covariance
