@@ -19,7 +19,7 @@ I am a passionate **Data Science student** exploring the vast world of **Machine
 ### 📌 Work & Experience
 - **Finance & Accounting**: Nearly **3 years** in Cash Application (HP) & **6 years** in Product Compliance (Amazon)
 - **Data Science Aspirant**: Seeking roles in Data Science, Data Analysis, and Machine Learning while building my GitHub portfolio
-- **Music Producer**: Creating background scores for an Indian mythological drama using Logic Pro
+- **Music Producer**: Creating background scores for drama, cinema and songs using Logic Pro
 
 ### 📫 Let's Connect!
 - LinkedIn: [https://www.linkedin.com/in/shrinivasa-ph-bb96a31b5/](#)
