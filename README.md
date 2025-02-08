@@ -12,7 +12,7 @@ I am a passionate **Data Science student** exploring the vast world of **Machine
 - **Other Interests**: NLP, Computer Vision, and Audio/Visual Data Processing (Upcoming Learning Goals)
 
 ### 🚀 Projects
-- [🔗 Used Car Resale Value Prediction](#) *(Streamlit Web App using Machine Learning)*
+- [🔗 [Used Car Resale Value Prediction](https://github.com/ShrinivasaPH/ML-Clustering-Countries)](#) *(Streamlit Web App using Machine Learning)*
 - [🌍 Clustering Countries Project](#) *(Applied clustering techniques to group countries based on socio-economic indicators)*
 - More projects coming soon!
 
