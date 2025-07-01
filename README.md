@@ -12,8 +12,8 @@ I am a passionate **Data Science student** exploring the vast world of **Machine
 - **Other Interests**: NLP, Computer Vision, and Audio/Visual Data Processing (Upcoming Learning Goals)
 
 ### 🚀 Projects
-- 🔗 [Used Car Resale Value Prediction](https://github.com/ShrinivasaPH/ML-Clustering-Countries) (Streamlit Web App using Machine Learning)*
-- 🌍 [Clustering Countries Project](https://github.com/ShrinivasaPH/Cars24-Resale-ML-Model) (Applied clustering techniques to group countries based on socio-economic indicators)*
+- 🔗 [Used Car Resale Value Prediction](https://github.com/ShrinivasaPH/Cars24-Resale-ML-Model) (Streamlit Web App using Machine Learning)*
+- 🌍 [Clustering Countries Project](https://github.com/ShrinivasaPH/ML-Clustering-Countries) (Applied clustering techniques to group countries based on socio-economic indicators)*
 - More projects coming soon!
 
 ### 📌 Work & Experience
