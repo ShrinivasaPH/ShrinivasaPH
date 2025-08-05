@@ -21,9 +21,9 @@ I am a passionate **Data Science student** exploring the vast world of **Machine
 - **Data Science Aspirant**: Seeking roles in Data Science, Data Analysis, and Machine Learning while building my GitHub portfolio
 
 ### 📫 Let's Connect!
-- LinkedIn: [https://www.linkedin.com/in/shrinivasa-ph-bb96a31b5/]
-- GitHub: [https://github.com/ShrinivasaPH](#)
-- Kaggle: [https://www.kaggle.com/shrinivasaph](#)
+- LinkedIn: https://www.linkedin.com/in/shrinivasa-ph-bb96a31b5/
+- GitHub: https://github.com/ShrinivasaPH
+- Kaggle: https://www.kaggle.com/shrinivasaph
 - Portfolio: [https://shrinivasaph.github.io/Data-Scientist-Portfolio-Shrinivasa-PH/](#)
 
 ### ⭐ Fun Fact
