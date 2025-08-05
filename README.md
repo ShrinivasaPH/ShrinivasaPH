@@ -5,14 +5,14 @@ I am a passionate **Data Science student** exploring the vast world of **Machine
 
 ### 🧠 What I Know So Far
 - **Machine Learning**: Linear Regression, Polynomial Regression, Logistic Regression, Decision Trees, Random Forest, Ensemble Techniques (Bagging & Boosting), ARIMA (Time Series Analysis)
+- **Deep Learning**: NLP, Computer Vision, and Audio/Visual Data Processing
 - **Data Processing**: Handling Missing Values (KNN Imputation), Feature Engineering, PCA, GMM.
 - **Programming**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-- **Web Development**: Streamlit (Built a Used Car Resale Value Predictor)
 - **Statistics & Math**: Regression Metrics (R², Adjusted R², VIF), Basics of Derivatives & Exponents, Covariance
-- **Other Interests**: NLP, Computer Vision, and Audio/Visual Data Processing (Upcoming Learning Goals)
 
 ### 🚀 Projects
-- 🔗 [Used Car Resale Value Prediction](https://github.com/ShrinivasaPH/Cars24-Resale-ML-Model) (Streamlit Web App using Machine Learning)*
+- 🤖 [Text Summarization App](https://github.com/ShrinivasaPH/NLP-Summarizer) (An intelligent text summarization application powered by Hugging Face's BART model. Capable of processing long-form text and web URLs to generate concise, meaningful summaries)*
+- 🔗 [Used Car Resale Value Prediction](https://github.com/ShrinivasaPH/Cars24-Resale-ML-Model) (Streamlit Web App using Regression)*
 - 🌍 [Clustering Countries Project](https://github.com/ShrinivasaPH/ML-Clustering-Countries) (Applied clustering techniques to group countries based on socio-economic indicators)*
 - More projects coming soon!
 
