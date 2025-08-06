@@ -7,7 +7,6 @@ I am a passionate **Data Science student** exploring the vast world of **Machine
 - **Machine Learning**: Regression, Decision Trees, Random Forest, Ensemble Techniques (Bagging & Boosting), ARIMA (Time Series Analysis)
 - **Deep Learning**: NLP, Computer Vision, and Audio/Visual Data Processing
 - **Data Processing**: Handling Missing Values (KNN Imputation), Feature Engineering, PCA, GMM.
-- **Programming**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 
 ### 🚀 Projects
 - 🤖 [Text Summarization App](https://github.com/ShrinivasaPH/NLP-Summarizer) - An intelligent text summarization application powered by Hugging Face's BART model. Capable of processing long-form text and web URLs to generate concise, meaningful summaries.*
@@ -18,12 +17,6 @@ I am a passionate **Data Science student** exploring the vast world of **Machine
 ### 📌 Work & Experience
 - **Finance & Accounting**: Nearly **3 years** in Cash Application (HP) & **6 years** in Product Compliance (Amazon)
 - **Data Science Aspirant**: Seeking roles in Data Science, Data Analysis, and Machine Learning while building my GitHub portfolio
-
-### 📫 Let's Connect!
-- LinkedIn: https://www.linkedin.com/in/shrinivasa-ph-bb96a31b5/
-- GitHub: https://github.com/ShrinivasaPH
-- Kaggle: https://www.kaggle.com/shrinivasaph
-- Portfolio: https://shrinivasaph.github.io/Data-Scientist-Portfolio-Shrinivasa-PH/
 
 ### ⭐ Fun Fact
 I love diving deep into **philosophy, existentialism, and the meaning of life**, while also balancing my interests in **music production and technology**!
