@@ -3,7 +3,7 @@
 ### 🔍 About Me
 I am a passionate **Data Science student** exploring the vast world of **Machine Learning, Deep Learning, and AI**. My journey began with a background in **Finance & Accounting** and later into **Product Compliance**, and currently into the exciting field of **Data Science**.
 
-### 🧠 What I Know So Far
+### 🧠 My knowledge spectrum 
 - **Machine Learning**: Regression, Decision Trees, Random Forest, Ensemble Techniques (Bagging & Boosting), ARIMA (Time Series Analysis)
 - **Deep Learning**: NLP, Computer Vision, and Audio/Visual Data Processing
 - **Data Processing**: Handling Missing Values (KNN Imputation), Feature Engineering, PCA, GMM.
