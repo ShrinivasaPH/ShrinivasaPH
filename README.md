@@ -10,9 +10,9 @@ I am a **Data Scientist/Analyst** exploring the vast world of **Machine Learning
 
 ### 🚀 Projects
 - 🤖 [Text Summarization App](https://github.com/ShrinivasaPH/NLP-Summarizer) - An intelligent text summarization application powered by Hugging Face's BART model. Capable of processing long-form text and web URLs to generate concise, meaningful summaries.*
+- 🤖 [FitZen Chatbot - RAG](https://shrinivasaph-chatbot-langchain-memory-bot-rag-agbp9p.streamlit.app/) - A demo chatbot built to showcase Retrieval-Augmented Generation (RAG) using LangChain.
 - 🔗 [Used Car Resale Value Prediction](https://github.com/ShrinivasaPH/Cars24-Resale-ML-Model) - Streamlit Web App using Regression.*
 - 🌍 [Clustering Countries Project](https://github.com/ShrinivasaPH/ML-Clustering-Countries) - Applied clustering techniques to group countries based on socio-economic indicators.*
-- [FitZen Chatbot - RAG](https://shrinivasaph-chatbot-langchain-memory-bot-rag-agbp9p.streamlit.app/) - A demo chatbot built to showcase Retrieval-Augmented Generation (RAG) using LangChain.
 - More projects coming soon!
 
 ### 📌 Work & Experience
